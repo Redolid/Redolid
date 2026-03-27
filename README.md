@@ -72,9 +72,10 @@ Currently pursuing an **MSc in Computer Science & AI** at Cairo University.
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redolid&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/Redolid?style=flat&label=Followers&color=0A66C2)
+![GitHub stars](https://img.shields.io/github/stars/Redolid?style=flat&label=Total%20Stars&color=F2C811&labelColor=333)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redolid&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Redolid&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
